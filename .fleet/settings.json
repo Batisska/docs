@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.git.frontend"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.go"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.docker"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.maven"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.php"
+        }
+    ],
+    "editor.formatOnSave": true,
+    "prettier.mode": "Enabled"
+}
