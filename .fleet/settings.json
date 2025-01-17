@@ -20,5 +20,7 @@
             "type": "add",
             "pluginName": "fleet.php"
         }
-    ]
+    ],
+    "editor.formatOnSave": true,
+    "prettier.mode": "Enabled"
 }
